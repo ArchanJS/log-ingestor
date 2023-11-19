@@ -11,7 +11,6 @@ A web application for ingesting logs and querying log data. The project consists
 ## Installation
 
 1. **Clone the repository:**
-
    ```bash
    git clone https://github.com/dyte-submissions/november-2023-hiring-ArchanJS.git
 2. **Navigate to the project directory:**
